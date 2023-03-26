@@ -24,4 +24,6 @@ datagridviewproperties2
 
 var list = data.list;
 
-insert-data-to-datagriview
+chance of rain
+
+datetime/temp
