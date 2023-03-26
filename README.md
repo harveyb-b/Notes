@@ -12,6 +12,7 @@ DisplayWeatherData(string location)
 datagridproperties
 
 for int i = 0; i < 24; i++
+
 dgv.Columns.Add("","")
 
 dgv.RowTemplate.Height = 202;
